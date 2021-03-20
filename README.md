@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @uruha-komachin
+- 👀 I’m interested in building amazing things with C/C++, Rust and Python
